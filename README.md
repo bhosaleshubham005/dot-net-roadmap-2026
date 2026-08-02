@@ -1,2 +1,1 @@
-# dot-net-roadmap-2026
-My journey to becoming a .NET Backend Developer. Daily C# practice, ASP.NET Core projects, Web APIs, Entity Framework Core, SQL, and clean coding exercises.
+This repository documents my .NET learning journey through structured topics, hands-on coding exercises, practical projects, and daily progress as I build strong backend development skills.
