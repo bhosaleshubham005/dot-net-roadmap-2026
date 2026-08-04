@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\02-CSharp-Basics\HelloWorld\bin\Debug\net10.0\HelloWorld.exe
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\02-CSharp-Basics\HelloWorld\bin\Debug\net10.0\HelloWorld.deps.json
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\02-CSharp-Basics\HelloWorld\bin\Debug\net10.0\HelloWorld.runtimeconfig.json
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\02-CSharp-Basics\HelloWorld\bin\Debug\net10.0\HelloWorld.dll
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\02-CSharp-Basics\HelloWorld\bin\Debug\net10.0\HelloWorld.pdb
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\02-CSharp-Basics\HelloWorld\obj\Debug\net10.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\02-CSharp-Basics\HelloWorld\obj\Debug\net10.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\02-CSharp-Basics\HelloWorld\obj\Debug\net10.0\HelloWorld.AssemblyInfo.cs
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\02-CSharp-Basics\HelloWorld\obj\Debug\net10.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\02-CSharp-Basics\HelloWorld\obj\Debug\net10.0\HelloWorld.sourcelink.json
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\02-CSharp-Basics\HelloWorld\obj\Debug\net10.0\HelloWorld.dll
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\02-CSharp-Basics\HelloWorld\obj\Debug\net10.0\refint\HelloWorld.dll
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\02-CSharp-Basics\HelloWorld\obj\Debug\net10.0\HelloWorld.pdb
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\02-CSharp-Basics\HelloWorld\obj\Debug\net10.0\HelloWorld.genruntimeconfig.cache
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\02-CSharp-Basics\HelloWorld\obj\Debug\net10.0\ref\HelloWorld.dll

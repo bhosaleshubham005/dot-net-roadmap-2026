@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\PC\\Desktop\\dotnet\\dot-net-roadmap-2026\\02-CSharp-Basics\\StudentProfile\\StudentProfile.csproj": {}
+    "C:\\Users\\PC\\Desktop\\dotnet\\dot-net-roadmap-2026\\02-CSharp-Basics\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "c:\\Users\\PC\\Desktop\\dotnet\\dot-net-roadmap-2026\\02-CSharp-Basics\\StudentProfile\\StudentProfile.csproj": {
+    "C:\\Users\\PC\\Desktop\\dotnet\\dot-net-roadmap-2026\\02-CSharp-Basics\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\PC\\Desktop\\dotnet\\dot-net-roadmap-2026\\02-CSharp-Basics\\StudentProfile\\StudentProfile.csproj",
-        "projectName": "StudentProfile",
-        "projectPath": "c:\\Users\\PC\\Desktop\\dotnet\\dot-net-roadmap-2026\\02-CSharp-Basics\\StudentProfile\\StudentProfile.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Desktop\\dotnet\\dot-net-roadmap-2026\\02-CSharp-Basics\\HelloWorld\\HelloWorld.csproj",
+        "projectName": "HelloWorld",
+        "projectPath": "C:\\Users\\PC\\Desktop\\dotnet\\dot-net-roadmap-2026\\02-CSharp-Basics\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\PC\\Desktop\\dotnet\\dot-net-roadmap-2026\\02-CSharp-Basics\\StudentProfile\\obj\\",
+        "outputPath": "C:\\Users\\PC\\Desktop\\dotnet\\dot-net-roadmap-2026\\02-CSharp-Basics\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\Desktop\\dotnet\\dot-net-roadmap-2026\\02-CSharp-Basics\\SalaryCalculator\\SalaryCalculator.csproj": {}
+    "c:\\Users\\PC\\Desktop\\dotnet\\dot-net-roadmap-2026\\02-CSharp-Basics\\SalaryCalculator\\SalaryCalculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\Desktop\\dotnet\\dot-net-roadmap-2026\\02-CSharp-Basics\\SalaryCalculator\\SalaryCalculator.csproj": {
+    "c:\\Users\\PC\\Desktop\\dotnet\\dot-net-roadmap-2026\\02-CSharp-Basics\\SalaryCalculator\\SalaryCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Desktop\\dotnet\\dot-net-roadmap-2026\\02-CSharp-Basics\\SalaryCalculator\\SalaryCalculator.csproj",
+        "projectUniqueName": "c:\\Users\\PC\\Desktop\\dotnet\\dot-net-roadmap-2026\\02-CSharp-Basics\\SalaryCalculator\\SalaryCalculator.csproj",
         "projectName": "SalaryCalculator",
-        "projectPath": "C:\\Users\\PC\\Desktop\\dotnet\\dot-net-roadmap-2026\\02-CSharp-Basics\\SalaryCalculator\\SalaryCalculator.csproj",
+        "projectPath": "c:\\Users\\PC\\Desktop\\dotnet\\dot-net-roadmap-2026\\02-CSharp-Basics\\SalaryCalculator\\SalaryCalculator.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Desktop\\dotnet\\dot-net-roadmap-2026\\02-CSharp-Basics\\SalaryCalculator\\obj\\",
+        "outputPath": "c:\\Users\\PC\\Desktop\\dotnet\\dot-net-roadmap-2026\\02-CSharp-Basics\\SalaryCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
