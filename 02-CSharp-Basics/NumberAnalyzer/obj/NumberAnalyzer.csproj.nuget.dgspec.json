@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\PC\\Desktop\\dotnet\\dot-net-roadmap-2026\\02-CSharp-Basics\\NumberAnalyzer\\NumberAnalyzer.csproj": {}
+    "C:\\Users\\PC\\Desktop\\dotnet\\dot-net-roadmap-2026\\02-CSharp-Basics\\NumberAnalyzer\\NumberAnalyzer.csproj": {}
   },
   "projects": {
-    "c:\\Users\\PC\\Desktop\\dotnet\\dot-net-roadmap-2026\\02-CSharp-Basics\\NumberAnalyzer\\NumberAnalyzer.csproj": {
+    "C:\\Users\\PC\\Desktop\\dotnet\\dot-net-roadmap-2026\\02-CSharp-Basics\\NumberAnalyzer\\NumberAnalyzer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\PC\\Desktop\\dotnet\\dot-net-roadmap-2026\\02-CSharp-Basics\\NumberAnalyzer\\NumberAnalyzer.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Desktop\\dotnet\\dot-net-roadmap-2026\\02-CSharp-Basics\\NumberAnalyzer\\NumberAnalyzer.csproj",
         "projectName": "NumberAnalyzer",
-        "projectPath": "c:\\Users\\PC\\Desktop\\dotnet\\dot-net-roadmap-2026\\02-CSharp-Basics\\NumberAnalyzer\\NumberAnalyzer.csproj",
+        "projectPath": "C:\\Users\\PC\\Desktop\\dotnet\\dot-net-roadmap-2026\\02-CSharp-Basics\\NumberAnalyzer\\NumberAnalyzer.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\PC\\Desktop\\dotnet\\dot-net-roadmap-2026\\02-CSharp-Basics\\NumberAnalyzer\\obj\\",
+        "outputPath": "C:\\Users\\PC\\Desktop\\dotnet\\dot-net-roadmap-2026\\02-CSharp-Basics\\NumberAnalyzer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"

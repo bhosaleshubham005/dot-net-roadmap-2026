@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\02-CSharp-Basics\TableGenerator\bin\Debug\net10.0\TableGenerator.exe
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\02-CSharp-Basics\TableGenerator\bin\Debug\net10.0\TableGenerator.deps.json
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\02-CSharp-Basics\TableGenerator\bin\Debug\net10.0\TableGenerator.runtimeconfig.json
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\02-CSharp-Basics\TableGenerator\bin\Debug\net10.0\TableGenerator.dll
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\02-CSharp-Basics\TableGenerator\bin\Debug\net10.0\TableGenerator.pdb
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\02-CSharp-Basics\TableGenerator\obj\Debug\net10.0\TableGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\02-CSharp-Basics\TableGenerator\obj\Debug\net10.0\TableGenerator.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\02-CSharp-Basics\TableGenerator\obj\Debug\net10.0\TableGenerator.AssemblyInfo.cs
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\02-CSharp-Basics\TableGenerator\obj\Debug\net10.0\TableGenerator.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\02-CSharp-Basics\TableGenerator\obj\Debug\net10.0\TableGenerator.sourcelink.json
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\02-CSharp-Basics\TableGenerator\obj\Debug\net10.0\TableGenerator.dll
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\02-CSharp-Basics\TableGenerator\obj\Debug\net10.0\refint\TableGenerator.dll
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\02-CSharp-Basics\TableGenerator\obj\Debug\net10.0\TableGenerator.pdb
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\02-CSharp-Basics\TableGenerator\obj\Debug\net10.0\TableGenerator.genruntimeconfig.cache
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\02-CSharp-Basics\TableGenerator\obj\Debug\net10.0\ref\TableGenerator.dll

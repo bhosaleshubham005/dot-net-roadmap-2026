@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\02-CSharp-Basics\ATMsystem\bin\Debug\net10.0\ATMsystem.exe
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\02-CSharp-Basics\ATMsystem\bin\Debug\net10.0\ATMsystem.deps.json
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\02-CSharp-Basics\ATMsystem\bin\Debug\net10.0\ATMsystem.runtimeconfig.json
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\02-CSharp-Basics\ATMsystem\bin\Debug\net10.0\ATMsystem.dll
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\02-CSharp-Basics\ATMsystem\bin\Debug\net10.0\ATMsystem.pdb
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\02-CSharp-Basics\ATMsystem\obj\Debug\net10.0\ATMsystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\02-CSharp-Basics\ATMsystem\obj\Debug\net10.0\ATMsystem.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\02-CSharp-Basics\ATMsystem\obj\Debug\net10.0\ATMsystem.AssemblyInfo.cs
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\02-CSharp-Basics\ATMsystem\obj\Debug\net10.0\ATMsystem.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\02-CSharp-Basics\ATMsystem\obj\Debug\net10.0\ATMsystem.sourcelink.json
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\02-CSharp-Basics\ATMsystem\obj\Debug\net10.0\ATMsystem.dll
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\02-CSharp-Basics\ATMsystem\obj\Debug\net10.0\refint\ATMsystem.dll
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\02-CSharp-Basics\ATMsystem\obj\Debug\net10.0\ATMsystem.pdb
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\02-CSharp-Basics\ATMsystem\obj\Debug\net10.0\ATMsystem.genruntimeconfig.cache
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\02-CSharp-Basics\ATMsystem\obj\Debug\net10.0\ref\ATMsystem.dll

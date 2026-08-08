@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/02-CSharp-Basics/">
+    <Project Path="02-CSharp-Basics/ATMsystem/ATMsystem.csproj" />
+    <Project Path="02-CSharp-Basics/calculator/calculator.csproj" />
+    <Project Path="02-CSharp-Basics/HelloWorld/HelloWorld.csproj" />
+    <Project Path="02-CSharp-Basics/NumberAnalyzer/NumberAnalyzer.csproj" />
+    <Project Path="02-CSharp-Basics/SalaryCalculator/SalaryCalculator.csproj" />
+    <Project Path="02-CSharp-Basics/StudentProfile/StudentProfile.csproj" />
+    <Project Path="02-CSharp-Basics/TableGenerator/TableGenerator.csproj" />
+  </Folder>
+</Solution>

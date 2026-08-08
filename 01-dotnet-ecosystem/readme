@@ -1,0 +1,40 @@
+# .NET Ecosystem
+
+## What is .NET?
+
+.NET is a software development platform developed by Microsoft.
+
+## What is C#?
+
+C# is an object-oriented programming language used with the .NET platform.
+
+## Frontend
+
+- HTML
+- CSS
+- JavaScript
+
+## Backend
+
+- C#
+- ASP.NET Core
+
+## Database
+
+- SQL Server
+
+## MVC
+
+- Model
+- View
+- Controller
+
+## Web API
+
+Used for communication between applications using HTTP requests and responses.
+
+## Development Tools
+
+- Visual Studio 2022
+- SQL Server
+- SSMS

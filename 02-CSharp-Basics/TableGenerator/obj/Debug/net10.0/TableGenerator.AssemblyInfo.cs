@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TableGenerator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c3ea24cd47239e4aef2e293597a434d8036772e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9cd3f964aef89b15bf0163c62edd470c9e86b7d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("TableGenerator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TableGenerator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
