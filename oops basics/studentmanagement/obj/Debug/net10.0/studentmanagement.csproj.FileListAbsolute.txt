@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\oops basics\studentmanagement\bin\Debug\net10.0\studentmanagement.exe
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\oops basics\studentmanagement\bin\Debug\net10.0\studentmanagement.deps.json
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\oops basics\studentmanagement\bin\Debug\net10.0\studentmanagement.runtimeconfig.json
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\oops basics\studentmanagement\bin\Debug\net10.0\studentmanagement.dll
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\oops basics\studentmanagement\bin\Debug\net10.0\studentmanagement.pdb
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\oops basics\studentmanagement\obj\Debug\net10.0\studentmanagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\oops basics\studentmanagement\obj\Debug\net10.0\studentmanagement.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\oops basics\studentmanagement\obj\Debug\net10.0\studentmanagement.AssemblyInfo.cs
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\oops basics\studentmanagement\obj\Debug\net10.0\studentmanagement.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\oops basics\studentmanagement\obj\Debug\net10.0\studentmanagement.sourcelink.json
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\oops basics\studentmanagement\obj\Debug\net10.0\studentmanagement.dll
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\oops basics\studentmanagement\obj\Debug\net10.0\refint\studentmanagement.dll
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\oops basics\studentmanagement\obj\Debug\net10.0\studentmanagement.pdb
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\oops basics\studentmanagement\obj\Debug\net10.0\studentmanagement.genruntimeconfig.cache
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\oops basics\studentmanagement\obj\Debug\net10.0\ref\studentmanagement.dll
