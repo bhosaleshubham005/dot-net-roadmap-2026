@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\03-Intermidiate-c#\listDemo\bin\Debug\net10.0\listDemo.exe
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\03-Intermidiate-c#\listDemo\bin\Debug\net10.0\listDemo.deps.json
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\03-Intermidiate-c#\listDemo\bin\Debug\net10.0\listDemo.runtimeconfig.json
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\03-Intermidiate-c#\listDemo\bin\Debug\net10.0\listDemo.dll
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\03-Intermidiate-c#\listDemo\bin\Debug\net10.0\listDemo.pdb
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\03-Intermidiate-c#\listDemo\obj\Debug\net10.0\listDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\03-Intermidiate-c#\listDemo\obj\Debug\net10.0\listDemo.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\03-Intermidiate-c#\listDemo\obj\Debug\net10.0\listDemo.AssemblyInfo.cs
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\03-Intermidiate-c#\listDemo\obj\Debug\net10.0\listDemo.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\03-Intermidiate-c#\listDemo\obj\Debug\net10.0\listDemo.sourcelink.json
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\03-Intermidiate-c#\listDemo\obj\Debug\net10.0\listDemo.dll
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\03-Intermidiate-c#\listDemo\obj\Debug\net10.0\refint\listDemo.dll
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\03-Intermidiate-c#\listDemo\obj\Debug\net10.0\listDemo.pdb
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\03-Intermidiate-c#\listDemo\obj\Debug\net10.0\listDemo.genruntimeconfig.cache
+C:\Users\PC\Desktop\dotnet\dot-net-roadmap-2026\03-Intermidiate-c#\listDemo\obj\Debug\net10.0\ref\listDemo.dll
